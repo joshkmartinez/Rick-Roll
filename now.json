@@ -1,0 +1,42 @@
+{
+  "name": "Rick",
+  "alias": [
+    "rickastley",
+    "getrickrolled",
+    "nevergonnaletyoudown",
+    "nevergonnaturnaroundanddesertyou",
+    "wearenostangerstolove",
+    "youknowtherulesandsodoi",
+    "nevergoingtosaygoodbye",
+    "nevergoingtosaygoodbyeanddesertyou",
+    "welovedeachotherforsolong",
+    "iloverick",
+    "rollrick",
+    "gotem",
+    "ricc",
+    "ricckk",
+    "ricck",
+    "rik",
+    "allhailrickastley",
+    "ourlordandsaviorrick",
+    "nevergonnatellalieandhurtyou",
+    "afullcommitmentiswhatiamthinkingof",
+    "hailrick",
+    "allhailrick",
+    "getricked",
+    "getrickrolled",
+    "lordrick",
+    "succ",
+    "suck",
+    "rickroll",
+    "rickrolled",
+    "rickrolld",
+    "ricky",
+    "rickit"
+  ],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
